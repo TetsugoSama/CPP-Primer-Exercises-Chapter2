@@ -1,0 +1,9 @@
+(a)\145表示字符'e'，\012表示换页键，显示为空一行,故原字符串为：
+“Who goes with Fergus?
+
+”
+(b)3.14e1L = (3.14 * 10^1)L = 31.4L,long double型
+
+(c)float型的1024
+
+(d)long double型的3.14

@@ -1,0 +1,4 @@
+(a) 'a':char,	L'a':wchar_t,	"a":char型字符串,	L"a":wchar_t型字符串。
+(b) 10:int,	10u:unsigned int,	10L:long,	10UL:unsigned long,	012:8进制int,	0xC:16进制int。
+(c) 3.14:double,	3.14f:float,	3.14L:long double。
+(d) 10:int,	10u:unsigned int,	10.:double,	10e-2:double
