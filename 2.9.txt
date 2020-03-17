@@ -1,0 +1,8 @@
+(a) 输入流中不可以定义变量,应改为：
+int intput_value;
+std::cin>>input_value;
+(b) 3.14为浮点数，转换为int型会损失精度，应该为：int i = 3.14或float i = {3.14}
+(c)wage未定义，应该为：
+double wage;
+double salary = wage = 9999.99
+(d) 将浮点数3.14转化成int型整数3，是合法定义。
