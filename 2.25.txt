@@ -1,0 +1,3 @@
+(a) 定义了int型指针ip,int型变量i,int型引用r指向i。
+(b) 定义了int型变量i和int型指针ip不指向任何对象。
+(c) 定义了int型指针ip和int型变量ip2。
